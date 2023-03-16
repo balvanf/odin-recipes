@@ -1,3 +1,2 @@
-This is my first Odin project. 
+This is my Odin project. 
 Stay tuned.
-Resistance is futile.
